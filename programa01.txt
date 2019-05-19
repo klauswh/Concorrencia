@@ -1,0 +1,21 @@
+PROGRAMA 01
+===========
+
+Início do trecho original
+    Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
+    Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
+    Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
+Fim do trecho original
+
+Início do trecho original
+    Def-def-def-def-def-def-def-def-def-def-def-def-def
+    Def-def-def-def-def-def-def-def-def-def-def-def-def
+    Def-def-def-def-def-def-def-def-def-def-def-def-def
+Fim do trecho original
+
+Início do trecho original
+    Ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi
+    Ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi
+    Ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi
+Fim do trecho original
+
