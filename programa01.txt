@@ -1,4 +1,5 @@
 -- OS-2 - Commit inicial - Analista-2
+-- OS-1 - Commit inicial - Analista-1
 PROGRAMA 01
 ===========
 
@@ -7,6 +8,12 @@ Início do trecho original
     Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
     Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
 Fim do trecho original
+
+Início do trecho da OS-1
+    Xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx
+    Xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx
+    Xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx
+Fim do trecho da OS-1
 
 Início do trecho original
     Def-def-def-def-def-def-def-def-def-def-def-def-def (alterado na branch OS-2)
