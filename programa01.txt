@@ -3,19 +3,25 @@ PROGRAMA 01
 ===========
 
 Início do trecho original
-    Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
+    Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc (alterado na branch OS-1)
     Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
     Abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc-abc
 Fim do trecho original
 
+Início do trecho da OS-1
+    Xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx
+    Xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx
+    Xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx
+Fim do trecho da OS-1
+
 Início do trecho original
-    Def-def-def-def-def-def-def-def-def-def-def-def-def
+    Def-def-def-def-def-def-def-def-def-def-def-def-def (alterado na branch OS-1)
     Def-def-def-def-def-def-def-def-def-def-def-def-def
     Def-def-def-def-def-def-def-def-def-def-def-def-def
 Fim do trecho original
 
 Início do trecho original
-    Ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi
+    Ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi (alterado na branch OS-1)
     Ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi
     Ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi-ghi
 Fim do trecho original
