@@ -1,2 +1,7 @@
 -- OS-2 - Commit inicial - Analista-2
 
+Início do trecho da OS-2
+    Bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb
+    Bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb
+    Bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb-bbb
+Fim do trecho da OS-2
